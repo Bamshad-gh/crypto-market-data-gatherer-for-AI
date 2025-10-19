@@ -13,12 +13,7 @@ Features
 
     AI-Ready Datasets: Outputs structured data ready for training prediction models
 
-Installation
-bash
 
-git clone https://github.com/yourusername/crypto-data-collector.git
-cd crypto-data-collector
-pip install -r requirements.txt
 
 Quick Start
 python
